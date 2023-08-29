@@ -51,7 +51,7 @@
     margin: 0 auto 20px; 
     padding: 8px 10px 8px 26px;
     position: relative;
-    width: 60%;
+    width: 100%;
     color: rgb(82, 114, 242);
   }
   
@@ -112,7 +112,7 @@
     padding-top:1px;
   }
   .msr_btn13 a{
-    width: 180px;
+    width: 300px;
     padding:15px;
     color:#ffffff;
     font-size: 18px;
